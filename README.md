@@ -15,3 +15,14 @@
 - Map 
 - Filter
 - String Functions
+
+# Numpy
+
+- List
+- Arange, Ones, Zeros and Linspace Functions
+- Rand & Randn
+- Randint
+- Reshape
+- Max-Min & ArgMax-ArgMin Value
+- 1D Arrays
+- 2D Arrays
