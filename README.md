@@ -26,3 +26,5 @@
 - Max-Min & ArgMax-ArgMin Value
 - 1D Arrays
 - 2D Arrays
+- Array Conditions
+- Array Op
