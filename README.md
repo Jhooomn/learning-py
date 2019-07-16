@@ -29,7 +29,7 @@
 - Array Conditions
 - Array Op
 
-#Pandas 
+# Pandas 
 - Series
 - DataFrames
 - Data Select
