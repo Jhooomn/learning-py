@@ -28,3 +28,19 @@
 - 2D Arrays
 - Array Conditions
 - Array Op
+
+#Pandas 
+- Series
+- DataFrames
+- Data Select
+- Row Edit
+- Null Values
+- Column Group
+- Combine DataFrames
+- DataFrame Merge
+- Join
+- DataFrame OP
+- CSV and EXCEL Files
+- Read HTML 
+- Set a DataFrame in a SQL Table
+- Graphics
