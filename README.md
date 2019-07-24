@@ -44,3 +44,12 @@
 - Read HTML 
 - Set a DataFrame in a SQL Table
 - Graphics
+
+# Matplotlib
+- Examples
+- Multigraphs
+- Graph Size-Shape
+- 2-Graphs 
+- Graph Color
+- Line Type
+- Marker
