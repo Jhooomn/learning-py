@@ -53,3 +53,11 @@
 - Graph Color
 - Line Type
 - Marker
+
+ # Seaborn
+ - Distribution Graph
+- Category Columns
+- Heat Map
+- PairGrid and FaceGrid
+- Regr Graph
+- Colors and Styles
