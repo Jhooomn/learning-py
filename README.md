@@ -61,3 +61,12 @@
 - PairGrid and FaceGrid
 - Regr Graph
 - Colors and Styles
+
+ # Cufflink
+ - Examples
+ 
+ # Linear Regression
+ - USA- Housing Example
+ 
+ # Logistic Regression
+ - Titanic Example 
