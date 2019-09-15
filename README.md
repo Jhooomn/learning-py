@@ -70,3 +70,6 @@
  
  # Logistic Regression
  - Titanic Example 
+ 
+ # KNN
+ - Vehicles Brand Example
